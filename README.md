@@ -1,1 +1,1 @@
-Nginx with openid connect for auth. Inspire for nginx-openid-connect(only support NGINX+).
+Support open source NGINX. Inspire for nginx-openid-connect(which only support NGINX+).
